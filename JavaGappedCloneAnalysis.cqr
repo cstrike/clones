@@ -1,0 +1,7 @@
+#!org.conqat.engine.code_clones.languages.java.JavaGappedCloneAnalysis
+output.dir=E:\eclipse-workspace\workspace\identify-functionalities\conqat-output
+input.project=android
+input.dir=E:\repositories
+gap.ratio=0.1
+clone.minlength=10
+errors.max=5

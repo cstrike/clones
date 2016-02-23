@@ -1,0 +1,9 @@
+CharacterLiteral
+DoubleLiteral
+FloatingPointLiteral
+IntegerLiteral
+LongLiteral
+StringLiteral
+false
+null
+true
